@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MERMAID</string>
+    <string name="alarm_time">Alarm Time</string>
+    <string name="schedule_alarm">Schedule Alarm</string>
+</resources>
